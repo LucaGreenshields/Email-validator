@@ -2,4 +2,4 @@
 writing a program to see if a email address given in is valid
 
 writing this i learnt
-* [distpatch tables](./dispatch%20tables.md)
+* [distpatch tables](./dispatch_tables.md)
